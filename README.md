@@ -17,7 +17,7 @@ This repository contains the design files for a **24V to 5V buck converter** bas
 ## Project Files
 
 * `24V_to_5V_Buck_Converter.PrjPcb`: Altium Project file
-* `24V_to_5V_Buck_Converter.SchDoc`: Schematic of the buck converter
+* `24V_to_5V_Buck_Converter.SchDoc`: Buck converter schematic
 * `24V_to_5V_Buck_Converter.PcbDoc`: PCB layout design
 
 ---
