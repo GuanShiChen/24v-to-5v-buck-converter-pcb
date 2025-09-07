@@ -34,3 +34,14 @@ The circuit is centered around the **LMR14010ADDCT buck regulator IC (U1)**. Key
 * **C3, C4, C5 (22µF, 0.1µF, 0.01µF):** Output capacitors that filter the output voltage to provide a clean and stable 5V supply.
 * **R1 (86.6KΩ), R2 (55KΩ), R3 (10KΩ), and R4 (10KΩ):** Resistors for voltage divider to set the final 5V output.
 * **P1 and P2:** Standard JST 2-pin connectors for the 24V input and 5V output.
+
+---
+
+## Design
+![schematic](/Buck%20Converter%20PCB%20Schematic.png)
+![component layout](/Buck%20Converter%20PCB%20Layout.png)
+![3d layout](/Buck%20Converter%20PCB%203D.png)
+
+---
+
+Project inspired by [RGB Engineering](https://www.youtube.com/c/rgbengineering)
